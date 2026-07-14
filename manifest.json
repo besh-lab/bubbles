@@ -2,7 +2,7 @@
   "name": "bubbles",
   "short_name": "bubbles",
   "description": "Приватный мессенджер",
-  "start_url": "./index.html",
+  "start_url": "./bubbles.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
